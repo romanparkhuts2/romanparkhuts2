@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Roman
-**Backend Software Engineer** · Milan 🇮🇹
+**Fullstack Software Engineer** · Milan 🇮🇹
 
 I build scalable backend systems and APIs with .NET and Azure — focusing on clean architecture, performance, and production-grade reliability.
 
